@@ -1,4 +1,4 @@
-# SQL-ASSIGNMENTS
+# SQL ASSIGNMENTS
 QUESTIONS FOR .SQL FILE
 
 1.List the first initial of all the students coming from YMT
