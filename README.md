@@ -1,5 +1,6 @@
 # SQL-ASSIGNMENTS
 QUESTIONS FOR .SQL FILE
+
 1.List the first initial of all the students coming from YMT
 
 2.Display the entire name but the last character of students
